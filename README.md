@@ -13,15 +13,13 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
+![James Git Stats](https://github-readme-stats.vercel.app/api?username=JamesLK6&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ## 📊 Stats
 
 [![Metrics](https://metrics.lecoq.io/JamesLK6?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Asia%2FCalcutta)](https://t.me/James_LK)
 
 <h3 align="left"><b>My GitHub Stats</b></h4>
-
-![James Git Stats](https://github-readme-stats.vercel.app/api?username=JamesLK6&include_all_commits=true&count_private=true&theme=highcontrast)
-
 
 ### Languages and Tools I Love❤️
 
