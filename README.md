@@ -1,11 +1,11 @@
 ## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [James](https://t.me/James_LK) | [![Profile views](https://komarev.com/ghpvc/?username=JamesLK6&label=Profile%20views)](https://github.com/JamesLK6)
 
 
-- **💫 I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
+- **👨🏽‍💻 I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
 
 - **🌱 Currently Learning Python**
 
-- **⚡ Fun Fact I'm Noob...**
+- **⚡ Fun Fact I'm James...**
 
 
 ```python
