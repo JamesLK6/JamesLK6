@@ -13,6 +13,7 @@ Name = "James"
 Who I Am = ['Coding = ❣️']
 Age = "17"
 Country = "🇱🇰"
+Currently Working on "Natsuki"
 ```
 
 ## 📊 Stats
