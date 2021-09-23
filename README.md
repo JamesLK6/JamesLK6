@@ -2,9 +2,7 @@
 
 
 - **⭐️ I’m currently working on [Natsuki](https://github.com/TeamNatsuki/Natsuki)**
-
 - **🌟 Currently Learning Python [Connect With Me](https://t.me/James_LK)**
-
 - **⚡ Always Redy to Help I'm James...**
 
 
