@@ -13,7 +13,7 @@ Age = "17"
 Country = "🇱🇰"
 Currently Working on "Natsuki"
 ```
-![James Git Stats](https://github-readme-stats.vercel.app/api?username=JamesLK6&include_all_commits=true&count_private=true&theme=highontrast)
+![JAMES Git Stats](https://github-readme-stats.vercel.app/api?username=JamesLK6&include_all_commits=true&count_private=true&theme=highcontrast)
 
 ## 📊 Stats
 
